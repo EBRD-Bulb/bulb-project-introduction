@@ -33,7 +33,7 @@ Online technical specification builder with a catalogue of energy-efficiency pro
 
 Dedicated business intelligence tool to track energy-efficient products procurement performance and make evidence-based decisions for future procurement planning and policy-making is developed.​
 
-5 contracting entities conducted 6 purchases of energy-sensitive products (345 bulbs) using the developed tools and methodologies. Total value of purchases is UAH 19 040,40. Financial lifecycle savings - ; Energy lifeclycle savings - ​
+5 contracting entities conducted 6 purchases of energy-sensitive products (345 bulbs) using the developed tools and methodologies. Total value of purchases is EUR 571. Annual financial savings - EUR 2 341. Financial lifecycle savings - EUR 47 265; Annual energy savings - 1252 kWh. Energy lifeclycle savings - 25 275 kWh.​
 
 New approaches to energy-sensitive products procurement are widely promoted by the SoE “ProZorro”, SI CPB “Professional Procurement”, and other stakeholders.
 
